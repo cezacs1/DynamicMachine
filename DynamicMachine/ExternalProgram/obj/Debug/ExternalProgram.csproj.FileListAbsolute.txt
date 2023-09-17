@@ -1,0 +1,6 @@
+C:\Users\admin\source\repos\DynamicMachine\ExternalProgram\bin\Debug\ExternalProgram.dll
+C:\Users\admin\source\repos\DynamicMachine\ExternalProgram\bin\Debug\ExternalProgram.pdb
+C:\Users\admin\source\repos\DynamicMachine\ExternalProgram\obj\Debug\ExternalProgram.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\DynamicMachine\ExternalProgram\obj\Debug\ExternalProgram.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\DynamicMachine\ExternalProgram\obj\Debug\ExternalProgram.dll
+C:\Users\admin\source\repos\DynamicMachine\ExternalProgram\obj\Debug\ExternalProgram.pdb
