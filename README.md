@@ -8,7 +8,7 @@ Bu kod şu anda basit konsol çağrılarını işleyebiliyor.
 - DynamicMachine ise dinamik olarak yöntem oluşturur. İçine, önceden kaydedilen txt dosyasından okunan Instructions emitlenir. [Bunun için kesinlikle daha gelişmiş filter ve yöntemler gerekiyor.]
 - Yöntem runtime oluşturulup çağrılır.
 
-# Geliştiriliyor;
+## Geliştiriliyor;
 
 - Geliştirilmesi tamamlandığında mükemmel bir koruma sağlayacaktır.
 - DynamicMachine ile korunan programlar dumplanamaz / cracklenmesi zordur.
