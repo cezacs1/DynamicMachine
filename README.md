@@ -10,8 +10,8 @@ Bu kod şu anda basit konsol çağrılarını işleyebiliyor.
 
 # Geliştiriliyor;
 
-- geliştirilmesi tamamen bittiğinde kullanıcılar için mükemmel bir koruma sağlamalıdır.
-- Dumplanamaz / cracklenmesi zordur.
+- Geliştirilmesi tamamlandığında mükemmel bir koruma sağlayacaktır.
+- DynamicMachine ile korunan programlar dumplanamaz / cracklenmesi zordur.
 
 ## Hatırlatma
 
