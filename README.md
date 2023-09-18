@@ -7,6 +7,12 @@ Bu kod şu anda basit konsol çağrılarını işleyebiliyor.
 - DynamicMachine ise dinamik olarak yöntem oluşturur. İçine, önceden kaydedilen txt dosyasından okunan Instructions emitlenir. [Bunun için kesinlikle daha gelişmiş filter ve yöntemler gerekiyor.]
 - Yöntem runtime oluşturulup çağrılır.
 
+# Geliştiriliyor;
+- Programın amacı runtime işlenen mekanizma ile orjinal kodu korumaktır.
+
+- geliştirilmesi tamamen bittiğinde kullanıcılar için mükemmel bir koruma sağlamalıdır.
+- Dumplanamaz / cracklenmesi zordur.
+
 ## Hatırlatma
 
 bin\debug içindeki dnlib kütüphanesini başvurulara eklemeyi unutmayın.
