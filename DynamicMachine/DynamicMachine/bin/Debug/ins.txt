@@ -1,0 +1,29 @@
+nop
+ldc.i4.1
+call System.Void System.Console::WriteLine(System.Int32)
+nop
+ldc.i4.7
+call System.Void System.Console::WriteLine(System.Int32)
+nop
+ldc.i4.s 10
+call System.Void System.Console::WriteLine(System.Int32)
+nop
+ldstr amk
+call System.Void System.Console::WriteLine(System.String)
+nop
+call System.Void test.Class1::Method1()
+nop
+ldstr 2. yöntem çağrılmadan önce bu konsol yazısı var.
+call System.Void System.Console::WriteLine(System.String)
+nop
+call System.Void test.Class1::newvoid()
+nop
+ldstr 3. yöntem (int) çağrılmadan önce bu konsol yazısı var.
+call System.Void System.Console::WriteLine(System.String)
+nop
+call System.Int32 test.Class1::newint()
+stloc.0
+ldloc.0
+call System.Void System.Console::WriteLine(System.Int32)
+nop
+ret
