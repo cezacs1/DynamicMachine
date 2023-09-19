@@ -16,3 +16,10 @@ Bu kod şu anda basit konsol çağrılarını işleyebiliyor.
 ## Hatırlatma
 
 bin\debug içindeki dnlib kütüphanesini başvurulara eklemeyi unutmayın.
+
+
+# güncellemeler
+
+**V1.1**
+- En büyük geliştirmelerden biri, artık DynamicMachine bir class olarak hedef programın içine inject oluyor. (korunacak programın içine)
+- Yeni OpCode destekleri.
