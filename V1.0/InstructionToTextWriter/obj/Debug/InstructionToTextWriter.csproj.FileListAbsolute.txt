@@ -1,0 +1,8 @@
+C:\Users\admin\source\repos\DynamicMachine\InstructionToTextWriter\bin\Debug\InstructionToTextWriter.pdb
+C:\Users\admin\source\repos\DynamicMachine\InstructionToTextWriter\bin\Debug\dnlib.dll
+C:\Users\admin\source\repos\DynamicMachine\InstructionToTextWriter\obj\Debug\InstructionToTextWriter.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\DynamicMachine\InstructionToTextWriter\obj\Debug\InstructionToTextWriter.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\DynamicMachine\InstructionToTextWriter\obj\Debug\InstructionToTextWriter.csproj.CopyComplete
+C:\Users\admin\source\repos\DynamicMachine\InstructionToTextWriter\obj\Debug\InstructionToTextWriter.pdb
+C:\Users\admin\source\repos\DynamicMachine\InstructionToTextWriter\bin\Debug\InstructionToTextWriter.exe
+C:\Users\admin\source\repos\DynamicMachine\InstructionToTextWriter\obj\Debug\InstructionToTextWriter.exe
