@@ -1,7 +1,0 @@
-C:\Users\admin\source\repos\DynamicMachine\test\bin\Debug\test.exe.config
-C:\Users\admin\source\repos\DynamicMachine\test\bin\Debug\test.exe
-C:\Users\admin\source\repos\DynamicMachine\test\bin\Debug\test.pdb
-C:\Users\admin\source\repos\DynamicMachine\test\obj\Debug\test.csproj.AssemblyReference.cache
-C:\Users\admin\source\repos\DynamicMachine\test\obj\Debug\test.csproj.CoreCompileInputs.cache
-C:\Users\admin\source\repos\DynamicMachine\test\obj\Debug\test.exe
-C:\Users\admin\source\repos\DynamicMachine\test\obj\Debug\test.pdb
