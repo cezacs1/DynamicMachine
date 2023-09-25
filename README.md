@@ -20,9 +20,12 @@ bin\debug içindeki dnlib kütüphanesini başvurulara eklemeyi unutmayın.
 
 # güncellemeler
 
-**V1.0**
-- İlk kod yayınlandı.
+**V1.2**
+- Geçici basit düzeltmeler.
 
 **V1.1**
 - En büyük geliştirmelerden biri, artık DynamicMachine bir class olarak hedef programın içine inject oluyor. (korunacak programın içine / ..ctor )
 - Yeni OpCode destekleri.
+
+**V1.0**
+- İlk kod yayınlandı.
