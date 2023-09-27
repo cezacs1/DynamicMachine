@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\DynamicMachine\testapp\bin\Debug\testapp.exe.config
+C:\Users\admin\source\repos\DynamicMachine\testapp\bin\Debug\testapp.exe
+C:\Users\admin\source\repos\DynamicMachine\testapp\bin\Debug\testapp.pdb
+C:\Users\admin\source\repos\DynamicMachine\testapp\obj\Debug\testapp.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\DynamicMachine\testapp\obj\Debug\testapp.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\DynamicMachine\testapp\obj\Debug\testapp.exe
+C:\Users\admin\source\repos\DynamicMachine\testapp\obj\Debug\testapp.pdb

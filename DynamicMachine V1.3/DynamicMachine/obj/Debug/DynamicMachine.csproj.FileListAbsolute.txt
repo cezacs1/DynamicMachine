@@ -1,0 +1,8 @@
+C:\Users\admin\source\repos\DynamicMachine\DynamicMachine\obj\Debug\DynamicMachine.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\DynamicMachine\DynamicMachine\obj\Debug\DynamicMachine.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\DynamicMachine\DynamicMachine\bin\Debug\DynamicMachine.exe.config
+C:\Users\admin\source\repos\DynamicMachine\DynamicMachine\bin\Debug\DynamicMachine.exe
+C:\Users\admin\source\repos\DynamicMachine\DynamicMachine\bin\Debug\DynamicMachine.pdb
+C:\Users\admin\source\repos\DynamicMachine\DynamicMachine\obj\Debug\DynamicMachine.csproj.CopyComplete
+C:\Users\admin\source\repos\DynamicMachine\DynamicMachine\obj\Debug\DynamicMachine.exe
+C:\Users\admin\source\repos\DynamicMachine\DynamicMachine\obj\Debug\DynamicMachine.pdb
