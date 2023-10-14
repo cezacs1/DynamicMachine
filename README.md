@@ -3,18 +3,16 @@
 Bu kod şu anda basit konsol çağrılarını işleyebiliyor.
 
 - Programın amacı runtime işlenen mekanizma ile orjinal kodu korumaktır.
-- İlk önce korunacak (.exe) veya (.dll) dosyasının hedef yöntemi alınır. (Henüz otomatik değil)
+- İlk önce korunacak (.exe) veya (.dll) dosyasının hedef yöntemi alınır.
 - Yöntem içindeki tüm instruction'lar aynı yönteme çalışırken oluşacak şekilde eklenir.
 
 ## Geliştiriliyor;
 
-- Geliştirilmesi tamamlandığında mükemmel bir koruma sağlayacaktır.
 - DynamicMachine ile korunan programlar dumplanamaz / cracklenmesi zordur.
 
 ## Hatırlatma
 
 bin\debug içindeki dnlib kütüphanesini başvurulara eklemeyi unutmayın.
-
 
 # güncellemeler
 
